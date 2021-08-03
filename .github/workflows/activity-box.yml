@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: firemancha
-          GIST_ID: 28a6663d510aec1b670890a10886710e
+          GIST_ID: 1324e7f93fe8ac82de26db3adfe4e325
